@@ -9,6 +9,7 @@ const Header = () => {
       <div>
         <a href="/dinosaur_game">공룡게임</a>
       </div>
+      
     </Container>
   );
 };
