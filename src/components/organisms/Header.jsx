@@ -7,6 +7,9 @@ const Header = () => {
         <a href="/reaction_rate">반응속도</a>
       </div>
       <div>
+        <a href="/tetris">테트리스</a>
+      </div>
+      <div>
         <a href="/dinosaur_game">공룡게임</a>
       </div>
       
